@@ -10,4 +10,4 @@
 #
 ### Projeto:
 
-O projeto visa criar o back-end de um sistema para salão de belesa que permita o cadastro, agendamento e consulta
+O projeto visa criar o back-end de um sistema para salão de beleza que permita o cadastro, agendamento e consulta.
